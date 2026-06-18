@@ -4,3 +4,5 @@ dist/
 build/
 .next/
 coverage/
+.env.local
+.env
